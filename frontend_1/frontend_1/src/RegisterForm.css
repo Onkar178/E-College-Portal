@@ -1,0 +1,55 @@
+
+
+
+.register-container {
+  position: relative;
+  height: 100vh;
+  background: linear-gradient(135deg, #2b1055, #7597de, #f3ec78, #af4261);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 20px;
+}
+
+.register-form {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  width: 100%;
+  max-width: 500px;
+  z-index: 2;
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.animated-background-text {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 50px;
+  font-weight: 900;
+  color: rgba(255, 255, 255, 0.05);
+  white-space: nowrap;
+  animation: scrollText 10s linear infinite;
+  pointer-events: none;
+  z-index: 1;
+}
+
+@keyframes scrollText {
+  0% {
+    transform: translateX(-50%) translateY(0);
+  }
+  50% {
+    transform: translateX(-50%) translateY(-10px);
+  }
+  100% {
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+@media (max-width: 576px) {
+  .animated-background-text {
+    font-size: 30px;
+  }
+}

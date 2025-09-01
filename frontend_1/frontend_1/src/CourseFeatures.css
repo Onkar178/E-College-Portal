@@ -1,0 +1,46 @@
+/* Animation for dropdown fade + slide */
+@keyframes dropdownFadeSlide {
+  0% {
+    
+    opacity: 0;
+    transform: translate(-50%, -10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}
+
+.dropdown-animate {
+  animation: dropdownFadeSlide 0.3s ease-out forwards;
+}
+
+/* Hover effect for course links */
+.hover-bg:hover {
+  background-color: #f0f8ff;
+  transition: background-color 0.2s ease-in-out;
+}
+
+
+/* Animation for dropdown fade + slide */
+@keyframes dropdownFadeSlide {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, 10px); /* pushes card slightly down */
+  }
+}
+
+.dropdown-animate {
+  animation: dropdownFadeSlide 0.3s ease-out forwards;
+  padding-top: 90px; /* gap between navbar and card */
+}
+
+/* Hover effect for course links */
+.hover-bg:hover {
+  background-color: #f0f8ff;
+  transition: background-color 0.2s ease-in-out;
+}

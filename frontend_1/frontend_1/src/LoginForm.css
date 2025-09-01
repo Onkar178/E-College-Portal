@@ -1,0 +1,19 @@
+.login-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #89f7fe 0%, #fcd1ff 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.login-form {
+  background-color: white;
+  width: 100%;
+  max-width: 450px;
+  border: 2px dotted #dee2e6;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 30px;
+}

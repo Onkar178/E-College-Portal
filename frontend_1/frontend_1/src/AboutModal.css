@@ -1,0 +1,27 @@
+
+
+/* Fade background */
+.custom-fade {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.custom-fade.show {
+  opacity: 1;
+}
+
+/* Slide-up animation for modal box */
+@keyframes slideUp {
+  0% {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slide-up {
+  animation: slideUp 0.35s ease-out;
+}

@@ -1,0 +1,24 @@
+
+
+/* Gradient background for the container */
+.student-profile-container {
+  background: linear-gradient(135deg, #6a11cb, #2575fc); /* purple → blue */
+  padding: 20px;
+  border-radius: 15px;
+  color: #fff;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Heading */
+.student-profile-heading {
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+/* Card/Table styling */
+.student-profile-table {
+  background: #fff;
+  color: #333;
+  border-radius: 12px;
+  overflow: hidden;
+}
