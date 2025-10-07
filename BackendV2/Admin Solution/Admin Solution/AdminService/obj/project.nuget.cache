@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sBsCC+1wey4=",
+  "dgSpecHash": "HXwcmNCMHkY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\AdminService.csproj",
+  "projectFilePath": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\AdminService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\c\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

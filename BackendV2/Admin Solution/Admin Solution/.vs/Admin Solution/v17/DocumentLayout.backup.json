@@ -1,85 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\userregisterstaffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\userregisterstaffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\placementdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\staffinitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\staffinitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\placementdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\placementdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\placementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\placementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\coursematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\coursematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\courseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\courseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\courseenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\assignstafftocoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\assignstafftocoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\assignstafftocoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\project data\\.net\\admin solution\\adminservice\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|c:\\users\\c\\desktop\\e-college portal\\backendv2\\admin solution\\admin solution\\adminservice\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E242D3E-FAD5-4518-832A-226255607850}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,67 +70,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\UserDTO.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\UserDTO.cs",
-              "RelativeToolTip": "AdminService\\Models\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Event.cs",
+              "RelativeToolTip": "AdminService\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T17:57:14.241Z",
+              "WhenOpened": "2025-09-09T12:31:52.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StaffDTO.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\StaffDTO.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\StaffDTO.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\StaffDTO.cs",
-              "RelativeToolTip": "AdminService\\Models\\StaffDTO.cs",
+              "DocumentIndex": 3,
+              "Title": "StaffInitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\StaffInitDTO.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\StaffInitDTO.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\StaffInitDTO.cs",
+              "RelativeToolTip": "AdminService\\Models\\StaffInitDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T17:52:44.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T07:21:22.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "StaffDTO.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\StaffDTO.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\StaffDTO.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\StaffDTO.cs",
+              "RelativeToolTip": "AdminService\\Models\\StaffDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:52:44.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Role.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Role.cs",
               "RelativeToolTip": "AdminService\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T17:32:06.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T17:32:06.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Program.cs",
               "RelativeDocumentMoniker": "AdminService\\Program.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Program.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Program.cs",
               "RelativeToolTip": "AdminService\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAQwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:05:07.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T06:05:07.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Course.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Course.cs",
               "RelativeToolTip": "AdminService\\Models\\Course.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,112 +147,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Student.cs",
-              "RelativeToolTip": "AdminService\\Models\\Student.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T05:59:37.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "AdminService\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Controllers\\AdminController.cs",
               "RelativeToolTip": "AdminService\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwL8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T17:14:37.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\User.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\User.cs",
-              "RelativeToolTip": "AdminService\\Models\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T15:01:53.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Staff.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\Staff.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Staff.cs",
-              "RelativeToolTip": "AdminService\\Models\\Staff.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:01:25.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\EventRegistration.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\EventRegistration.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\EventRegistration.cs",
-              "RelativeToolTip": "AdminService\\Models\\EventRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:00:54.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CourseMaterial.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\CourseMaterial.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\CourseMaterial.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\CourseMaterial.cs",
-              "RelativeToolTip": "AdminService\\Models\\CourseMaterial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:00:39.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRegisterStaffDTO.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\UserRegisterStaffDTO.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\UserRegisterStaffDTO.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\UserRegisterStaffDTO.cs",
-              "RelativeToolTip": "AdminService\\Models\\UserRegisterStaffDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:22:55.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PlacementApplication.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\PlacementApplication.cs",
-              "RelativeDocumentMoniker": "AdminService\\Models\\PlacementApplication.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\PlacementApplication.cs",
-              "RelativeToolTip": "AdminService\\Models\\PlacementApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:01:04.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "PlacementDatum.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\PlacementDatum.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\PlacementDatum.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\PlacementDatum.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\PlacementDatum.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\PlacementDatum.cs",
               "RelativeToolTip": "AdminService\\Models\\PlacementDatum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "CreateCourseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\CreateCourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\CreateCourseDTO.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\CreateCourseDTO.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\CreateCourseDTO.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\CreateCourseDTO.cs",
               "RelativeToolTip": "AdminService\\Models\\CreateCourseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +184,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\UserDTO.cs",
+              "RelativeToolTip": "AdminService\\Models\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:57:14.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\City.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\City.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\City.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\City.cs",
               "RelativeToolTip": "AdminService\\Models\\City.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "Announcement.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Announcement.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\Announcement.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Announcement.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Announcement.cs",
               "RelativeToolTip": "AdminService\\Models\\Announcement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "CourseEnrollment.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\CourseEnrollment.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\CourseEnrollment.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\CourseEnrollment.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\CourseEnrollment.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\CourseEnrollment.cs",
               "RelativeToolTip": "AdminService\\Models\\CourseEnrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\Feedback.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\Feedback.cs",
               "RelativeToolTip": "AdminService\\Models\\Feedback.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "AssignStaffToCourseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\AssignStaffToCourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\AssignStaffToCourseDTO.cs",
               "RelativeDocumentMoniker": "AdminService\\Models\\AssignStaffToCourseDTO.cs",
-              "ToolTip": "C:\\Users\\c\\Desktop\\Project Data\\.NET\\Admin Solution\\AdminService\\Models\\AssignStaffToCourseDTO.cs",
+              "ToolTip": "C:\\Users\\c\\Desktop\\E-College Portal\\BackendV2\\Admin Solution\\Admin Solution\\AdminService\\Models\\AssignStaffToCourseDTO.cs",
               "RelativeToolTip": "AdminService\\Models\\AssignStaffToCourseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
